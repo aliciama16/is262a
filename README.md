@@ -27,3 +27,6 @@ Feel free to further contribute to this list!
 ### Archive/Preservation GitHubs to Explore
   - [AMIA](https://github.com/amiaopensource)
   - [Internet Archive](https://github.com/internetarchive)
+
+### Bonus: See how a UCLA professor uses GitHub!
+- [Dr. Miriam Posner](https://github.com/miriamposner)
