@@ -1,4 +1,5 @@
-# <Your Name> (@<github-username>)
+# Name
+Name here
 
-- Name:
-- Personal repo from today: <URL>
+# Personal repo from today: 
+<a>link here</a>
