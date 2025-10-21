@@ -12,7 +12,7 @@ Feel free to further contribute to this list!
 - [Add a README to your GitHub profile](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme)
 - [Other Beginning GitHub Exercises](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 - [GitHub Docs](https://docs.github.com/en)
-- [A good README example](https://github.com/alec-chernicki/portfolio-template)
+- [Great examples of READMEs](https://github.com/matiassingers/awesome-readme)
 
 ## See how GLAM Institutions Use GitHub:
 ### Museum GitHubs to Explore
