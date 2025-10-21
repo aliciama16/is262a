@@ -1,6 +1,4 @@
 # <Your Name> (@<github-username>)
 
-- Specialization / focus:
-- Interests:
+- Name:
 - Personal repo from today: <URL>
-- **Reuse note** for your image:
