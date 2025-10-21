@@ -3,7 +3,7 @@ IS 262A: Data Management and Practice
 
 "Data Management and Practice" is a hands-on, applied introduction to how researchers and the information professionals who support them plan, organize, document, share, and preserve data so it remains findable, accessible, interoperable, and reusable (FAIR) over time.
 
-
+As we go through our GitHub tutorial today, if you fall behind please follow the [GitHub walkthrough](https://github.com/aliciama16/is262a/blob/main/GitHub_Walkthrough.md).
 
 ## Further GitHub Resources
 Feel free to further contribute to this list!
