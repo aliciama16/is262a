@@ -30,3 +30,4 @@ Feel free to further contribute to this list!
 
 ### Bonus: See how a UCLA professor uses GitHub!
 - [Dr. Miriam Posner](https://github.com/miriamposner)
+- [Dr. Cindy Nguyen](https://github.com/cindyanguyen)
