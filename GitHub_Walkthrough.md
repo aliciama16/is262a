@@ -16,7 +16,7 @@ This guide is to help you through our in-class lab!
 * Make sure it says “commit directly to the main branch”
 * Click “Commit Changes”
 
-# 3. Creat Your First README
+# 3. Create Your First README
 * To the upper right of README.md click the pencil “edit” button
 * Open README.md → Edit
 * Add 2 lines -
