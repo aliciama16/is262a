@@ -33,11 +33,19 @@ This guide is to help you through our in-class lab!
 * Add a line to tell us who your favorite musician is
 * Click the big green "Commit changes..." button
 
-# 5. Find your repository URL
+# 5. Save your Week 5 Python code to GitHub from Google CoLab
+* Open your Google Colab notebook from Week 5 and give it a descriptive name like IS262A-Python-Intro
+* From the top menu → File → Save a copy in GitHub
+* Connect to GitHub! Follow the prompts and authorize Google CoLab to access GitHub. If it asks for a repository, select the one you just made (my-first-repo)
+* Return back to GitHub and open your repository & you should see your code!
+
+(Note: remember, GitHub does not create a live connection from Google Colab. If you make more changes in your Colab code, you will need to save to GitHub again to overwrite and save the updated copy)
+
+# 6. Find your repository URL
 * Go to profile → repositories → click on my-first-repo → copy & save the URL from your browser address bar (it should look something like this: https://github.com/yourusername/my-first-repo)
 * Save this link - you'll need it for the next step
 
-# 6. Add Yourself to the 2026 Class Roster (Using a Pull Request)
+# 7. Add Yourself to the 2026 Class Roster (Using a Pull Request)
 * Open my class repository: is262a → then click on students folder → 2026 folder 
 * Open the /_TEMPLATE.md, click the "edit" button, and copy what is inside
 * Click back into 2026 folder
@@ -50,11 +58,4 @@ This guide is to help you through our in-class lab!
 * I will approve it - Github auto-forks and auto-branches when you propose a change
 * Wait and see!
 
-# 7. Save your Week 5 Python code to GitHub from Google CoLab
-* Open your Google Colab notebook from Week 5 and give it a descriptive name like IS262A-Python-Intro
-* From the top menu → File → Save a copy in GitHub
-* Connect to GitHub! Follow the prompts and authorize Google CoLab to access GitHub. If it asks for a repository, select the one you just made (my-first-repo)
-* Return back to GitHub and open your repository & you should see your code!
-
-(Note: remember, GitHub does not create a live connection from Google Colab. If you make more changes in your Colab code, you will need to save to GitHub again to overwrite and save the updated copy)
 
