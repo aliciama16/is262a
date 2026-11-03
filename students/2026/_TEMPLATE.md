@@ -1,5 +1,5 @@
 # Name
-First name here
+Amanda Clark
 
 # Personal repo from today: 
-<a>link here</a>
+<a>https://github.com/bugblocker/my-first-repo</a>
