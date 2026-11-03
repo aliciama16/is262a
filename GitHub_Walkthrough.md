@@ -7,7 +7,7 @@ This guide is to help you through our in-class lab!
 * You’ll be brought back to the sign in page → Sign in
 
 # 2. Create Your First Repository & Upload Your First File
-* Top left + → New repository
+* Top + → New repository
 * Name it "my-first-repo"
 * Click on “Add File” → “Upload files”
 * Upload an image -
