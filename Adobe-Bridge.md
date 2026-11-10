@@ -3,6 +3,8 @@ This is a guidance document for IS262A
 
 If you have not done so already, download Adobe Bridge [https://www.adobe.com/products/bridge.html]. It is a free (and very helpful) program to download and use!
 
+We're going to pretend that a researcher requested digital file access to this Soviet demobilization album in our institutional collection. Also known as a dembel album, it is a personal scrapbook created by a Soviet soldier at the end of their mandatory military service. They contain photographs, handwritten notes, sometimes illustrations and other decorations. We've asked a photographer to photograph the album and they've just sent us the files. Let's prepare this for researcher access!
+
 # 1. Download the Class Files
 Under Module 7
 
